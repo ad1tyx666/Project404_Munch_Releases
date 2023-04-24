@@ -1,4 +1,4 @@
-![source](https://github.com/Vincent4440/Project404_Munch_Releases/raw/main/picture.png)
+![source](https://github.com/Vincent4440/Project404_Munch_Releases/raw/main/tokui.png)
 
  ## Note !! -
 1. Firmware is built-in
