@@ -5,11 +5,11 @@
 2. Clean Flash is compulsory if coming from any version of MIUI or any other custom ROM.
 
  ## Instructions to flash -
-1 - Reboot to recovery (use the recovery provided in releases)
-2 - Flash firmware
-3 - Flash rom
-4 - Format data
-5 - Reboot to system
+1. Reboot to recovery (use the recovery provided in releases)
+2. Flash firmware
+3. Flash rom
+4. Format data
+5. Reboot to system
 
 ## Downloads -
 https://github.com/Vincent4440/Project404_Munch_Releases/releases
