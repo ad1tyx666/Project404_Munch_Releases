@@ -16,4 +16,4 @@ https://github.com/Vincent4440/Project404_Munch_Releases/releases
 
 ## Donate -
 <a href="https://www.paypal.me/vinc3ntexe/"><img src="blue.svg" height="40"></a>  
-If you enjoyed this project — or just feeling generous, consider buying me a coffee ☕
+If you enjoyed this project and considered donating me to pay my server charges
